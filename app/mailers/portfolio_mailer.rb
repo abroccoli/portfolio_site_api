@@ -1,0 +1,2 @@
+class PortfolioMailer < ApplicationMailer
+end
