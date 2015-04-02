@@ -7,8 +7,9 @@ gem 'rails-api'
 
 gem 'spring', :group => :development
 
-
+gem 'rack-cors'
 gem 'sqlite3'
+gem 'pry-byebug'
 
 
 
