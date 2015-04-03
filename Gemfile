@@ -5,10 +5,13 @@ gem 'rails', '4.2.0'
 
 gem 'rails-api'
 
-gem 'spring', :group => :development
+gem 'spring', group: :development
+gem 'sqlite3', group: :development
 
 gem 'rack-cors'
 gem 'pry-byebug'
+
+gem 'pg', group: :production
 gem 'rails_12factor', group: :production
 
 
