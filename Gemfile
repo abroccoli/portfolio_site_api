@@ -8,9 +8,8 @@ gem 'rails-api'
 gem 'spring', :group => :development
 
 gem 'rack-cors'
-gem 'sqlite3'
 gem 'pry-byebug'
-
+gem 'rails_12factor', group: :production
 
 
 # To use ActiveModel has_secure_password
